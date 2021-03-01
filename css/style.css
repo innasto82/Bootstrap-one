@@ -7,7 +7,14 @@ h2 {
 }
 
 .fab {
-    margin-left: 40px;
+    margin-top: 25px;
+    font-size: 50px;
     width: 100px;   
     height: 100px;
+}
+
+.circle { 
+    width: 100px;   
+    height: 100px;
+    /* background-color: slategray; */
 }
